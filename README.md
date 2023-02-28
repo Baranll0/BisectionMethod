@@ -16,11 +16,11 @@
 <hr>
 <p><h4>Declaration:</h4>
    <pre>
-      -Denklem için fonksiyon tanımlayalım.
-      -Sonrasında Bisection metodunun  fonksiyonu tanımlayalım ve Bisection metodunun algoritmasını koda dökelim.
-      -Sonrasında "alt aralık","üst aralık" ve "iterasyon sayısı" değerlerini kullanıcıdan alalım.
-      -Fakat dikkat etmemiz gereken bir şey var: alt aralıktaki fonksiyonun değeri ile üst aralıktaki fonksiyonun değerinin çarpımı 0 dan küçük olmak zorunda!
-      -Eğer sıfırdan küçük ise fonksiyonu çağırabiliriz.
+      -Let's define a function for the equation.
+      -Next, let's define the function of the Bisection method and code the algorithm of the Bisection method.
+      -Then let's get the "lower range", "upper range" and "number of iterations" values from the user.
+      -But there is one thing we should be careful about: the product of the value of the function in the lower range and the value of the function in the upper range        must be less than 0!
+      -If it is less than zero, we can call the function.
   </pre>
   <pre>
       If we talk about the algorithm of the bisection method:
